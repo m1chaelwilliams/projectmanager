@@ -2,7 +2,7 @@
 
 Simple project manager made with Custom Tkinter
 
-![Screenshot of GUI](screenshot.png)
+![Screenshot of GUI](ss.png)
 
 ### Features:
 - Add, remove, and edit projects
