@@ -2,6 +2,8 @@
 
 Simple project manager made with Custom Tkinter
 
+![Screenshot of GUI](screenshot.png)
+
 ### Features:
 - Add, remove, and edit projects
 - Open projects with terminal commands
